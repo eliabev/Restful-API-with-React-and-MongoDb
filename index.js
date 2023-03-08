@@ -14,4 +14,4 @@ app.use(express.json())
 
 // initial route
 
-// delivery a port
+// delivers a port
